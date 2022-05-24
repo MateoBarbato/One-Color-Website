@@ -1,0 +1,23 @@
+@import "home";
+@import "features";
+@import "commingsoon";
+@import "footer";
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+  font-family: "Lobster", sans-serif;
+  font-weight: lighter;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
